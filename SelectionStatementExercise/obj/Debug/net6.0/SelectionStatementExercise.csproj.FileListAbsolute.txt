@@ -1,0 +1,15 @@
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/Selection-Statements-Exercise/SelectionStatementExercise/bin/Debug/net6.0/SelectionStatementExercise
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/Selection-Statements-Exercise/SelectionStatementExercise/bin/Debug/net6.0/SelectionStatementExercise.deps.json
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/Selection-Statements-Exercise/SelectionStatementExercise/bin/Debug/net6.0/SelectionStatementExercise.runtimeconfig.json
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/Selection-Statements-Exercise/SelectionStatementExercise/bin/Debug/net6.0/SelectionStatementExercise.dll
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/Selection-Statements-Exercise/SelectionStatementExercise/bin/Debug/net6.0/SelectionStatementExercise.pdb
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.csproj.AssemblyReference.cache
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.AssemblyInfoInputs.cache
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.AssemblyInfo.cs
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.csproj.CoreCompileInputs.cache
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.dll
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/refint/SelectionStatementExercise.dll
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.pdb
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.genruntimeconfig.cache
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/Selection-Statements-Exercise/SelectionStatementExercise/obj/Debug/net6.0/ref/SelectionStatementExercise.dll
